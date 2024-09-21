@@ -1,9 +1,10 @@
-## Olá! Eu sou Gabriel Campopiano Rosa 👋
+## 🇧🇷 Olá! Eu sou Gabriel Campopiano Rosa | 🇺🇸 Hello! I'm Gabriel Campopiano Rosa 👋
 
-- 🔭 Atualmente estou desempregado, mas em busca do primeiro emprego
-- 🌱 Começando a estudar AngularJS
-- 📫 Contato email: bielcampopiano@gmail.com
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente estou desempregado, mas em busca do primeiro emprego | I am currently unemployed, but looking for my first job
+- 🌱 Começando a estudar AngularJS | Starting to study AngularJS
+- 📫 Contato | Contact email: bielcampopiano@gmail.com
+- 😄 Pronomes ele/dele | Pronouns: he/him
+- 🏫 Estudando na Faculdade Senai Roberto Mange, cursando Análise e Desenvolvimento de Sistemas | Studying at University Senai Roberto Mange, majoring in Systems Analysis and Development
 
 <div>
   <a href="https://github.com/Biel559">
