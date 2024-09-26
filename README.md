@@ -1,6 +1,6 @@
 ## 🇧🇷 Olá! Eu sou Gabriel Campopiano Rosa | 🇺🇸 Hello! I'm Gabriel Campopiano Rosa 👋
 
-- 🔭 Atualmente estou desempregado, mas em busca do primeiro emprego | I am currently unemployed, but looking for my first job
+- 🔭 Em busca do primeiro emprego | Looking for my first job
 - 🌱 Começando a estudar AngularJS | Starting to study AngularJS
 - 📫 Contato | Contact email: bielcampopiano@gmail.com
 - 😄 Pronomes ele/dele | Pronouns: he/him
