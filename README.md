@@ -2,7 +2,7 @@
 
 ## 🇧🇷 Olá! Eu sou Gabriel Campopiano Rosa | 🇺🇸 Hello! I'm Gabriel Campopiano Rosa 👋
 
-- 🖥 Trabalhando como Estagiário Developer na CI&T | Working as a Developer Intern at CI&T
+- 🖥 Trabalhando como Estagiário Developer na CI&T Campinas-SP Brasil 🇧🇷 | Working as a Developer Intern at CI&T Campinas-SP Brazil 🇧🇷 
 - 🌱 Começando a estudar AngularJS | Starting to study AngularJS
 - 📫 Contato | Contact email: bielcampopiano@gmail.com
 - 😄 Pronomes ele/dele | Pronouns: he/him
